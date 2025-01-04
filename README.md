@@ -1,2 +1,2 @@
 # SimpleQuizApp
-A simple project Quiz App  of implementation html, css and java-script
+A simple project Quiz App  which is the implementation of html, css and java-script
